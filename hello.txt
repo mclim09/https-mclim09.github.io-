@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Hello World</h1>
+    <p>I'm hosted with GitHub Pages.</p>
+<p>How are you today?</p>
+<p>Have a good day! Ciao</p>
+  </body>
+</html>
